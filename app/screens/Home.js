@@ -6,7 +6,7 @@ import { Logo } from '../components/Logo';
 import { InputWithButton } from '../components/TextInput';
 
 const TEMP_BASE_CURRENCY = 'USD';
-const TEMP_QUOTE_CURRENCY = 'GBP';
+const TEMP_QUOTE_CURRENCY = 'EUR';
 const TEMP_BASE_PRICE = '100';
 const TEMP_QUOTE_PRICE = '79.74';
 
